@@ -11,5 +11,5 @@ Isi tugas:
 
 File yang ada dalam folder ini:
 - student-mat.csv (dataset dari kaggle)
-- tugas1.ipynb (google colab)
+- tugas1datawrangling.ipynb (google colab)
 - student.json (konversi csv ke json)
