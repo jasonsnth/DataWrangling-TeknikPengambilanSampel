@@ -1,3 +1,2 @@
-   # TUGAS MATA KULIAH 
-# Data Wrangling & Teknik Pengambilan Sampel 
+# MATA KULIAH TEKNIK PENGAMBILAN SAMPEL & DATA WRANGLING
 
