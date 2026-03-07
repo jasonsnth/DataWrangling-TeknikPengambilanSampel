@@ -1,2 +1,2 @@
-# DataWrangling-TeknikPengambilanSampel
+# DataWrangling&TeknikPengambilanSampel
 Tugas
